@@ -1,5 +1,3 @@
-![Auto Assign](https://github.com/symbol-blockchain-community/demo-repository/actions/workflows/auto-assign.yml/badge.svg) ![Proof HTML](https://github.com/symbol-blockchain-community/demo-repository/actions/workflows/proof-html.yml/badge.svg)
-
 # Symbol Blockchain Community
 
 Empowering People with Blockchain
